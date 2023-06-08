@@ -2,5 +2,5 @@
 from add_0 import add
 a=1
 b=2
-sum = "{}+{}={} ".format(a, b, add(a, b))
+sum = "{} + {} = {}".format(a, b, add(a, b))
 print(sum)
