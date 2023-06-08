@@ -3,5 +3,6 @@ if __name__ == '__main__':
     from add_0 import add
     a = 1
     b = 2
-    sum = "{} + {} = {}".format(a, b, sum(a,b))
-    print(sum)
+    result = add(a, b)
+    sum_str = "{} + {} = {}".format(a, b, result)
+    print(sum_str)
