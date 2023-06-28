@@ -18,14 +18,11 @@ class Square:
             raise ValueError("size must be >= 0")
         self.__size = size
 
-    """represent public method area method"""
-
     def area(self):
         """Initialize a new Square.
 
         Args:
-            self : 
+            self :
         """
         area = self.__size**2
-
         return (area)
