@@ -1,0 +1,10 @@
+# Inheritence
+Inheritance is a fundamental concept in object-oriented programming (OOP) that allows you to create new classes (derived classes) based on existing classes (base or parent classes). In Python, inheritance is implemented using the syntax class DerivedClass(BaseClass):, where DerivedClass is the new class you want to create, and BaseClass is the existing class from which you want to inherit.
+
+When a class inherits from another class, it automatically gains access to all the attributes (variables) and methods (functions) defined in the base class. This enables code reuse and allows you to define specialized classes that inherit and extend the behavior of a more general class.# Inheritence
+Inheritance is a fundamental concept in object-oriented programming (OOP) that allows you to create new classes (derived classes) based on existing classes (base or parent classes). In Python, inheritance is implemented using the syntax class DerivedClass(BaseClass):, where DerivedClass is the new class you want to create, and BaseClass is the existing class from which you want to inherit.
+
+When a class inherits from another class, it automatically gains access to all the attributes (variables) and methods (functions) defined in the base class. This enables code reuse and allows you to define specialized classes that inherit and extend the behavior of a more general class.# Inheritence
+Inheritance is a fundamental concept in object-oriented programming (OOP) that allows you to create new classes (derived classes) based on existing classes (base or parent classes). In Python, inheritance is implemented using the syntax class DerivedClass(BaseClass):, where DerivedClass is the new class you want to create, and BaseClass is the existing class from which you want to inherit.
+
+When a class inherits from another class, it automatically gains access to all the attributes (variables) and methods (functions) defined in the base class. This enables code reuse and allows you to define specialized classes that inherit and extend the behavior of a more general class.
